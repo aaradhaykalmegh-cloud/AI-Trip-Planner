@@ -1,0 +1,6 @@
+{
+  "name": "AI Trip Planner",
+  "description": "Comprehensive AI-powered travel planner featuring customized day-by-day itineraries, interactive route maps, budget tracking, smart packing lists, and an intelligent travel concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
